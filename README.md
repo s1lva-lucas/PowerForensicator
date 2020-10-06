@@ -1,5 +1,5 @@
 # PowerForensicator
-
+```
  _____                       ______                       _           _             
 |  __ \                     |  ____|                     (_)         | |            
 | |__) |____      _____ _ __| |__ ___  _ __ ___ _ __  ___ _  ___ __ _| |_ ___  _ __ 
@@ -7,16 +7,15 @@
 | |  | (_) \ V  V /  __/ |  | | | (_) | | |  __/ | | \__ \ | (_| (_| | || (_) | |   
 |_|   \___/ \_/\_/ \___|_|  |_|  \___/|_|  \___|_| |_|___/_|\___\__,_|\__\___/|_|   
 
+```
 
 
-### Prerequisites
+### Usage
 
-What things you need to install the software and how to install them
+How to use the tool?
 
 ```
-Python 3.5+
-pip3
-python-telegram-bot
+ powershell.exe -ExecutionPolicy Bypass -File .\PowerForensicator.ps1
 ```
 
 ### 1. Install python-telegram-bot library
